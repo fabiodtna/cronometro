@@ -1,7 +1,7 @@
 
 <h4 align="left">APP cronometro</h4>
 
-Um app  de cronometro simples com função de pausar zerar e mostra o ultimo tempo do cronometro! 
+Um app cronometro simples! 
 
 
 </br>
