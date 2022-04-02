@@ -1,7 +1,7 @@
 
-<h4 align="left">APP cronometro</h4>
+<h4 align="left">Um app cronometro simples! </h4>
 
-Um app cronometro simples! 
+funcões timer pausa e zera, ao zerar mostra o ultimo tempo do cronometro!
 
 
 </br>
