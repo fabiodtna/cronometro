@@ -3,7 +3,6 @@
 
 Um app  de cronometro simples com função de pausar zerar e mostra o ultimo tempo do cronometro! 
 
-<br/>
 
 </br>
 <div > 
